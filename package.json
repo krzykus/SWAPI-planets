@@ -1,0 +1,29 @@
+{
+  "name": "swapi-planets",
+  "version": "0.0.1",
+  "description": "Implementation of SWAPI backend assigment/test",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krzykus/SWAPI-planets.git"
+  },
+  "author": "Tomasz Filipek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krzykus/SWAPI-planets/issues"
+  },
+  "homepage": "https://github.com/krzykus/SWAPI-planets#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "memory-cache": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
+}
