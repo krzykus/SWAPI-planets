@@ -1,2 +1,2 @@
 # SWAPI-planets
-Implementation of SWAPI assigment/test
+Implementation of SWAPI assigment/test backend
